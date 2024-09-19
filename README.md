@@ -1,7 +1,3 @@
-Mana kengroq versiyadagi GitHub README fayli:
-
----
-
 # Hi, I'm Alimardon Toshmatov! 👋
 
 I'm a passionate **Android Developer** with a deep interest in creating innovative mobile applications using the latest technologies. My primary focus is on developing high-performance apps using **Kotlin** and **Jetpack Compose**. I'm continuously exploring new tools and frameworks, aiming to share my knowledge with others while growing as a developer.
