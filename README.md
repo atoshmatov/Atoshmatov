@@ -52,7 +52,6 @@ I’m launching a YouTube channel where I'll share Android development tutorials
 ## 📫 How to Reach Me:
 - **Email**: [a.toshmatov.dev@gmial.com]
 - **LinkedIn**: [https://www.linkedin.com/in/alimardon-toshmatov-174042230/]
-- **Instagram**: [https://www.instagram.com/_a.toshmatov_]
 - **Twitter**: [https://x.com/a__toshmatov]
 
 ---
