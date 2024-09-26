@@ -32,6 +32,7 @@ I'm a passionate **Android Developer** with a deep interest in creating innovati
 - **Version Control**: Git, GitHub
 - **Testing**: JUnit, Espresso, Mockito
 - **Tools**: Android Studio, Gradle, Firebase, Postman, GitHub Actions
+- **Platform**: KMM,CMP
 
 ---
 
