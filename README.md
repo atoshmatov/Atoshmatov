@@ -53,6 +53,8 @@ I’m launching a YouTube channel where I'll share Android development tutorials
 - **Email**: [a.toshmatov.dev@gmial.com]
 - **LinkedIn**: [https://www.linkedin.com/in/alimardon-toshmatov-174042230/]
 - **Twitter**: [https://x.com/a__toshmatov]
+- **Telegram**: [https://t.me/a_toshmatov]
+
 
 ---
 
