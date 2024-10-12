@@ -36,13 +36,6 @@ I'm a passionate **Android Developer** with a deep interest in creating innovati
 
 ---
 
-## 🚀 Future Goals:
-- Build more open-source Android libraries to contribute to the community
-- Explore **Jetpack Compose** at a deeper level, mastering UI components and state management
-- Get involved in **Android mentoring**, helping junior developers and sharing best practices
-
----
-
 ## 🎥 YouTube Channel:
 I’m launching a YouTube channel where I'll share Android development tutorials, tips, and best practices. Stay tuned for updates!
 [https://www.youtube.com/@mobile_uz_]
@@ -50,9 +43,9 @@ I’m launching a YouTube channel where I'll share Android development tutorials
 ---
 
 ## 📫 How to Reach Me:
-- **Email**: [a.toshmatov.dev@gmial.com]
+- **Email**:    [a.toshmatov.dev@gmial.com]
 - **LinkedIn**: [https://www.linkedin.com/in/alimardon-toshmatov-174042230/]
-- **Twitter**: [https://x.com/a__toshmatov]
+- **Twitter**:  [https://x.com/a__toshmatov]
 - **Telegram**: [https://t.me/a_toshmatov]
 
 
