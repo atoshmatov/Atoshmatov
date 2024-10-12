@@ -8,7 +8,6 @@ I'm a passionate **Android Developer** with a deep interest in creating innovati
 - 🔭 I’m currently working on mobile app development projects, improving user experiences and building modern UIs.
 - 🌱 I’m in the process of intensively studying **Android** and **Kotlin** to advance my skills and expertise.
 - 👨‍💻 I enjoy solving complex problems and building scalable, maintainable, and high-quality software solutions.
-- 📢 I'm committed to sharing my learning journey through various platforms, including **Instagram** and **YouTube**, to help others grow in the field of Android development.
 
 ---
 
@@ -33,12 +32,6 @@ I'm a passionate **Android Developer** with a deep interest in creating innovati
 - **Testing**: JUnit, Espresso, Mockito
 - **Tools**: Android Studio, Gradle, Firebase, Postman, GitHub Actions
 - **Platform**: KMM,CMP
-
----
-
-## 🎥 YouTube Channel:
-I’m launching a YouTube channel where I'll share Android development tutorials, tips, and best practices. Stay tuned for updates!
-[https://www.youtube.com/@mobile_uz_]
 
 ---
 
