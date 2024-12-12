@@ -2,6 +2,6 @@
 
 I’m an **Android Developer** passionate about creating innovative mobile apps using **Kotlin** and **Jetpack Compose**.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 Let’s collaborate and create amazing things together! ✨
